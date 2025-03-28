@@ -22,10 +22,10 @@ https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 <h2>Installation Walk-through</h2>
 
 <p align="center">
-Navigate to Microsoft Azure and create a resource group: <br/>
-<img src="https://imgur.com/PbGX63J" height="80%" width="80%" alt="Setting Up in Azure"/>
-<br />
-<br />
+Navigate to Microsoft Azure and create a resource group: 
+  
+![creating vm](https://github.com/user-attachments/assets/5508e55a-517a-49f6-bff2-df34a239c9b8)
+
 <p align="center">
 
 

@@ -62,29 +62,48 @@ Run the IIS as administrator, register PHP from within IIS, restart the server:
 
 ![image](https://github.com/user-attachments/assets/1addc5e6-2387-4450-b713-1868be582e76)
 
+<p align="center">
+Install osTicket v1.15.8: from the Installeation files provided above, unzip "osTicket-v1.15.8zip" and copy the "upload" folder into "c:\inetpub\wwwroot".  Rename "upload" to "osTicket":
+
+![image](https://github.com/user-attachments/assets/3f1cd08b-8e95-4961-9fcf-3a5a2c13a1ad)
+
+<p align="center">
+Run IIS as administrator once again and restart the server:
+
+![image](https://github.com/user-attachments/assets/469bfa3c-0081-4d3b-8c52-36c757359eb6)
+
+<p align="center">
+In the Connections menu, open Localhost>Sites>Default Web Site>osTicket, double-click PHP Manager, click "Enable or disable extension".  Enable "php_imap.dll", "php_intl.dll", and "php_opcache.dll":
+
+![image](https://github.com/user-attachments/assets/12e2e9f9-6438-4536-8707-7a3b00279954)
+
+<p align="center">
+In the Actions menu, click "Browse *:80":
+
+![image](https://github.com/user-attachments/assets/18946583-c9e8-440f-bbec-7bee4a4b59e7)
+
+![image](https://github.com/user-attachments/assets/6b376d07-18ae-4436-9e46-cbda332b616d)
+
+<p align="center">
+Install HeidiSQL from the Installation files provided above, open Heidi and create a new session with the credentials: root and password: root:
+
+![image](https://github.com/user-attachments/assets/c09df9eb-0b9d-4c9c-a215-be5daf4090ad)
+
+<p align="center">
+Create a new Database and name it "osTicket":
+
+![image](https://github.com/user-attachments/assets/9f76d06b-10e9-472f-b4a0-d575f6c5ec81)
+
+![image](https://github.com/user-attachments/assets/b6c060de-69ac-40b9-ac8f-e29ddf1112a0)
+
+<p align="center">
+Navigate back to the Web Browser and the osTicket Installer and fill out the credentials.  In the Database Settings, use the MySQL Database: osTicket.  MySQL Username and Password: root/root  Click "Install Now":
+
+![image](https://github.com/user-attachments/assets/edde8e2e-0741-42a5-b492-cc23e15379e0)
+
+<p align="center">
+Congratulations!  Installation Complete!
+
+![image](https://github.com/user-attachments/assets/a550ba21-3397-495a-ad39-34b3859a43d6)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/PbGX63J"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /># osticket-prereqs

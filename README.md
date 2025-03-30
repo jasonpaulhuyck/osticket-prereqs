@@ -52,6 +52,21 @@ Test the installation by typing the loopback IP address 127.0.0.1 in the interne
 
 ![image](https://github.com/user-attachments/assets/c1ff9d71-c011-4b47-b19d-84e9d4156d55)
 
+<p align="center">
+From the Installation files provided above, install PHP Manager for IIS, the IIS URL Rewrite Module, VC_redist.x86, and mysql5.5.62:
+
+![image](https://github.com/user-attachments/assets/a73f7825-a448-4e4d-9396-05809fa5b12b)
+
+<p align="center">
+Run the IIS as administrator, register PHP from within IIS, restart the server:
+
+![image](https://github.com/user-attachments/assets/1addc5e6-2387-4450-b713-1868be582e76)
+
+
+
+
+
+
 
 
 

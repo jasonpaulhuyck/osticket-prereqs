@@ -22,11 +22,42 @@ https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD
 <h2>Installation Walk-through</h2>
 
 <p align="center">
-Navigate to Microsoft Azure and create a resource group: 
+Navigate to Microsoft Azure and create a Resource Group: 
   
-![creating vm](https://github.com/user-attachments/assets/5508e55a-517a-49f6-bff2-df34a239c9b8)
+![creating rg](https://github.com/user-attachments/assets/eaca884b-69aa-4ff6-a8fd-d48f0cf6aa0b)
 
 <p align="center">
+  
+![creating rg](https://github.com/user-attachments/assets/d1c0bf50-2f58-4da4-bfd2-a9b39c6b49c1)
+<p align="center">
+Create a Virtual Machine within the Resource Group: 
+  
+![creating vm](https://github.com/user-attachments/assets/8ff7baee-7f74-4957-9a4d-2347efd3132d)
+<p align="center">
+Virtual Machine setup:
+  
+![virtual machine setup](https://github.com/user-attachments/assets/48d7db7e-ebe1-4136-8b56-a4d50bce8d71)
+<p align="center">
+Using the IP address from the newly created VM, connect to the VM using Remote Desktop or Windows App:
+
+![Remote](https://github.com/user-attachments/assets/4c598dd0-f6c9-4f4c-991b-f70f4683df0b)
+
+![Remote](https://github.com/user-attachments/assets/747003b0-2652-44e7-9454-90c6b76da8ba)
+<p align="center">
+Install and enable IIS (Internet Information Services).  Enable CGI and all Common HTTP Features:
+
+![image](https://github.com/user-attachments/assets/8b568f61-9124-43e8-a682-783067e426b1)
+<p align="center">
+Test the installation by typing the loopback IP address 127.0.0.1 in the internet browser:
+
+![image](https://github.com/user-attachments/assets/c1ff9d71-c011-4b47-b19d-84e9d4156d55)
+
+
+
+
+
+
+
 
 
 

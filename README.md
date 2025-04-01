@@ -63,7 +63,7 @@ Run the IIS as administrator, register PHP from within IIS, restart the server:
 ![image](https://github.com/user-attachments/assets/1addc5e6-2387-4450-b713-1868be582e76)
 
 <p align="center">
-Install osTicket v1.15.8: from the Installeation files provided above, unzip "osTicket-v1.15.8zip" and copy the "upload" folder into "c:\inetpub\wwwroot".  Rename "upload" to "osTicket":
+Install osTicket v1.15.8: from the Installation files provided above, unzip "osTicket-v1.15.8zip" and copy the "upload" folder into "c:\inetpub\wwwroot".  Rename "upload" to "osTicket":
 
 ![image](https://github.com/user-attachments/assets/3f1cd08b-8e95-4961-9fcf-3a5a2c13a1ad)
 
